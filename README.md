@@ -7,7 +7,7 @@
 
 - ☁️ I’ve successfully passed the **AWS Certified Cloud Practitioner** exam
 
-- 🌱 I’m currently learning **AWS Solutions Architect certification and Java**
+- 🌱 I’m currently learning **AWS Solutions Architect certification and React Native 📱**
 
 - 🤝 I’m looking for help with [Optimizing serverless deployments and cost-efficient AWS architectures](https://aws.amazon.com)
 
