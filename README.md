@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konstantin</h1>
-<h3 align="center">Fullstack Developer | AWS Cloud Practitioner | AWS Solutions Architect (in progress) | Python, JS & React Enthusiast</h3>
+<h3 align="center">Fullstack Developer | AWS Cloud Practitioner | AWS Solutions Architect (in progress) | JS, TS & React Enthusiast</h3>
 
 ---
 
