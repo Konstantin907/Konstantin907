@@ -90,7 +90,7 @@
 
 ### 🧠 Currently Learning
 - AWS Solutions Architect Associate (EC2, S3, Lambda, VPCs, CloudFormation)
-- Java
+- PHP & Laravel
 - Building scalable REST APIs with Node.js + PostgreSQL
 
 ---
