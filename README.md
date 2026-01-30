@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Application for planning/executing tasks](https://github.com/Konstantin907/planning-app)
+- 🔭 I’m currently working on [Application for e-commerce]([https://github.com/Konstantin907/planning-app](https://github.com/Konstantin907/online-shopping))
 
 - ☁️ I’ve successfully passed the **AWS Certified Cloud Practitioner** exam
 
