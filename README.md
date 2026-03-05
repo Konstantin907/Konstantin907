@@ -7,7 +7,7 @@
 
 - ☁️ I’ve successfully passed the **AWS Certified Cloud Practitioner** exam
 
-- 🌱 I’m currently learning **PHP 📱**
+- 🌱 I’m currently learning **Golang ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)**
 
 - 🤝 I’m looking for help with [Optimizing serverless deployments and cost-efficient AWS architectures](https://aws.amazon.com)
 
