@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Konstantin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;AI+%2F+ML+Engineer;Vim+Power+User;Future+Pilot+✈️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;AI+%2F+ML+Engineer;Vim+Power+User" alt="Typing SVG" />
 </p>
 
 ---
